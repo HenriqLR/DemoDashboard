@@ -11,9 +11,9 @@ data: {
         label: "Trasacoes x Hora",
         //backgroundColor: 'rgb(255, 99, 132)', 
         borderColor: 'rgb(0,128,0)',
-        label: "Chamados Enviado por hora",
+        label: "Transacoes x Hora",
         //backgroundColor: 'rgb(60,179,113',
-        borderColor: 'rgb(0,128,0)',
+        borderColor: 'rgb(35,107,142)',
         data: [100,200,300,400,500,600]
     }]
 },
