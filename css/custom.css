@@ -3,3 +3,8 @@
     float: none; /* Added */
     margin-bottom: 10px; /* Added */
 }
+
+html body {
+    background-color: rgb(245,245,220);
+
+}
